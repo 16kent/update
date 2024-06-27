@@ -1,1 +1,1 @@
-echo "This is github Content";
+$control = "This is github Content";
